@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Kenneth Duff"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Honours Student in Data Analytics at the University of Saskatchewan
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,13 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Kenneth Duff'
+author: 'Kenneth Duff'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://kenduff.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -41,12 +41,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	gitlab
+    url:	https://gitab.com
+    desc: View my school projects!
+    share_url:
+    share_title: 
+    share_link: 
 
   - icon:	github
     url:	https://github.com/dirkfabisch
