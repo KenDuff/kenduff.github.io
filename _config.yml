@@ -24,8 +24,6 @@ paginate:	5
 
 url: "http://kenduff.***.***" # the base hostname & protocol for your site
 baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -34,23 +32,23 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/kenneth-duff/
+    desc: Connect with me on Linkedin!
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	gitlab
     url:	https://about.gitlab.com/
-    desc: Connect with me on gitlab
-    share_url: https://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+    desc: View my school projects on Gitlab!
+    share_url:
+    share_title: 
+    share_link: 
 
   - icon:	github
     url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    desc:	View my personal projects on Github!
     share_url:
     share_title:
     share_link:
