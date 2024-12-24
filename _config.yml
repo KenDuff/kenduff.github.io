@@ -14,7 +14,7 @@ logo: "/assets/images/avatar.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/fractal.jpeg""
+cover: "/assets/images/fractal.jpeg"
 
 name: 'Kenneth Duff'
 author: 'Kenneth Duff'
