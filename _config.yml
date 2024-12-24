@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: kenneth.duff@usask.ca
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/avatar.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,7 +18,7 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Kenneth Duff'
 author: 'Kenneth Duff'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/avatar.png"
 
 paginate:	5
 
@@ -35,19 +35,19 @@ social:
   - icon:	linkedin
     url:	https://www.linkedin.com/in/kenneth-duff/
     desc: Connect with me on Linkedin!
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    share_url:
+    share_title: 
+    share_link:
 
-  - icon:	square-gitlab
-    url:	https://about.gitlab.com/
+  - icon:	square-git
+    url:	https://git.cs.usask.ca/qdb802
     desc: View my school projects on Gitlab!
     share_url:
     share_title: 
     share_link: 
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/KenDuff
     desc:	View my personal projects on Github!
     share_url:
     share_title:
