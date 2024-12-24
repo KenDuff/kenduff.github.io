@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Kenneth Duff"
 description: > # this means to ignore newlines until "email:"
-   "Honours Student in Data Analytics at the University of Saskatchewan"
+   Honours Student in Data Analytics at the University of Saskatchewan
 
 email: a-mail@mail.mail
 #blog logo
@@ -39,7 +39,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	gitlab
+  - icon:	square-gitlab
     url:	https://about.gitlab.com/
     desc: View my school projects on Gitlab!
     share_url:
