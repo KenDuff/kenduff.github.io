@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 Hello, I am Kenneth Duff. I am an honours student pursuing a degree in applied computing with a focus on data analytics at the University of Saskatchewan.
