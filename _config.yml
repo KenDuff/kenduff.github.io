@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: kenneth.duff@usask.ca
 #blog logo
-logo: "/assets/images/avatar.png"
+logo: "/assets/images/fractal.jpeg"
 float_logo: true # true, false (default)
 
 # blog cover
