@@ -25,11 +25,6 @@ paginate:	5
 url: "http://kenduff.***.***" # the base hostname & protocol for your site
 baseurl: ""
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
-
 # social icons and sharing options
 social:
   - icon:	linkedin
@@ -39,7 +34,7 @@ social:
     share_title: 
     share_link:
 
-  - icon:	square-git
+  - icon:	code
     url:	https://git.cs.usask.ca/qdb802
     desc: View my school projects on Gitlab!
     share_url:
