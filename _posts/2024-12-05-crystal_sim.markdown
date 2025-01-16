@@ -4,7 +4,7 @@ title: "Crystalization Simulation Project"
 date:   2024-12-05 22:30:27
 categories: Undergraduate Projects
 tags: featured
-image: assets/article_images/crystal_sim/cover.png
+image: "assets/article_images/crystal_sim/cover.png"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
