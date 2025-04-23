@@ -6,7 +6,7 @@ categories: Undergraduate Projects
 tags: featured
 image: "/assets/article_images/crystal_sim/cover.png"
 ---
-This project was designed at the University of Saskatchewan for CMPT 394: Simulation Principles course.
+This project was designed at the University of Saskatchewan for the course CMPT 394: Simulation Principles.
 
 The motivation for the project was to visualize the properties and distribution of crystals, given conditions in which a crystalline structure would be present. We define these crystals as having two properties. The first would be an overall 'size', which we define as $\phi$, and an 'order', defined as $n$. We want to analyze these values of $\phi$ and $n$ up to a pre-specified value of $N$.
 
