@@ -14,7 +14,7 @@ We do this by viewing the change in concentrations based on four coefficients we
 
 The goal of the model was to gain an understanding of the concentration of sub-crystal amounts for the values of $\phi$ and $n$ that the system can take on. From this, we can characterize the conditions of the system and what effect it would have on the formation of these crystals, enabling us to understand the most ideal crystal given specific external characteristics represented by the coefficients of the system.
 
-You can read my full report about this interesting topic [here](assets/article_reports/crystal_sim/crystalSimulationReport.pdf)
+You can read my full report about this interesting topic [here](/assets/article_reports/crystal_sim/crystalSimulationReport.pdf)
 
 
 
