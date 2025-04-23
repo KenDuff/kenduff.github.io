@@ -6,31 +6,16 @@ categories: Undergraduate Projects
 tags: featured
 image: "/assets/article_images/crystal_sim/cover.png"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+This project was designed at the University of Saskatchewan for CMPT 394: Simulation Principles course.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The motivation for the project was to visualize the properties and distribution of crystals, given conditions in which a crystalline structure would be present. We define these crystals as having two properties. The first would be an overall 'size', which we define as $\phi$, and an 'order', defined as $n$. We want to analyze these values of $\phi$ and $n$ up to a pre-specified value of $N$.
 
-Jekyll also offers powerful support for code snippets:
+We do this by viewing the change in concentrations based on four coefficients we title as Crystal Growth, Decay, Order, and Disorder. To calculate these changes, we structured the model as a series of differential equations, which, when we perform summation on, would yield our overall system, and the total change we would see in that specific size and order of crystal.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The goal of the model was to gain an understanding of the concentration of sub-crystal amounts for the values of $\phi$ and $n$ that the system can take on. From this, we can characterize the conditions of the system and what effect it would have on the formation of these crystals, enabling us to understand the most ideal crystal given specific external characteristics represented by the coefficients of the system.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+You can read my full report about this interesting topic here
 
-{% highlight js %}
-
-<footer class="site-footer">
-  <div class="inner">
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
 
 
 [jekyll]:      http://jekyllrb.com
